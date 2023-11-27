@@ -1,1 +1,9 @@
+Bibtext: @misc{misc_appliances_energy_prediction_374,
+  author       = {Candanedo,Luis},
+  title        = {{Appliances energy prediction}},
+  year         = {2017},
+  howpublished = {UCI Machine Learning Repository},
+  note         = {{DOI}: https://doi.org/10.24432/C5VC8G}
+}
 
+Dataset URL: https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
